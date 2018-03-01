@@ -1,5 +1,9 @@
 require "ipp/version"
+require 'net/http'
+
 
 module Ipp
-  # Your code goes here...
+  def self.get
+    Net::HTTP.get(URI("https://api.ipify.org"))
+  end
 end
