@@ -1,0 +1,6 @@
+#!/usr/bin/ruby
+
+require 'ipp'
+
+puts Ipp::get
+

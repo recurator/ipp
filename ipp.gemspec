@@ -13,6 +13,7 @@ Gem::Specification.new do |spec|
   spec.description   = %q{Get computer public IP address using 'https://ipify.org'}
   spec.homepage      = "http://rubygems.org/gems/ipp"
   spec.license       = "MIT"
+  spec.executables   << "ipp"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
