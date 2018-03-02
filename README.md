@@ -21,9 +21,11 @@ Or install it yourself as:
 ## Usage
 
 In Ruby programs:
+
     $ Ipp::get
 
 In console you can use executable:
+
     $ ipp
 
 ## Contributing
