@@ -1,6 +1,6 @@
 # Ipp
 
-IPP is Ruby library for determining your public IP address using https://www.ipify.org.
+IPP is Ruby library for determining computer public IP address using https://www.ipify.org.
 
 ## Installation
 
